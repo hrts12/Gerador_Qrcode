@@ -12,5 +12,5 @@ Navegador moderno com JavaScript habilitado.
 
 Conexão com a internet (necessária para a API de geração do QR Code).
 
-📝 Licença
+## Licença
 Este projeto está licenciado sob a MIT License.
